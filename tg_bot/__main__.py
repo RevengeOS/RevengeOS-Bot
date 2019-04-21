@@ -48,6 +48,7 @@ And the following:
 
 DONATE_STRING = """Hey, thanks for considering donating! This bot is fully intended to help \
 RevengeOS ROM, so, if you want to support our project you can \
+[donate to the lead dev](http://paypal.me/lucchetto) as we can get somethings fishy in future \
  even consider to donate to [Paul](tg://user?id=254318997), the guy who did incredible helpful bots like Marie and Rose! You can do it on his [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
 IMPORTED = {}
